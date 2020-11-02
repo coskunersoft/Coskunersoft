@@ -6,6 +6,6 @@
 </br>
 
 <a href="#">
-  <i class="icon-linkedin"> <a href="https://www.linkedin.com/in/coskunersoft/"> <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/       e/e9/Linkedin_icon.svg"></a></i>
+  <i class="icon-linkedin"> <a href="https://www.linkedin.com/in/coskunersoft/"> <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></a></i>
  <i class="icon-linkedin"><img width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/youtube-85-226402.png"></i>
  </a>
