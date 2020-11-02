@@ -4,7 +4,7 @@
 <table>
    <tr>
       <td>
-          <img width="400" height="240" src="https://s1.imghub.io/DGfVH.png" alt="cıktı"></img>
+          <img width="400" height="240" src="https://s1.imghub.io/DGfVH.png" border="0" ></img>
       </td>
       
    </tr>
@@ -34,7 +34,7 @@
  <H1>𝕀ℕ𝔽𝕆ℝ𝕄𝔸𝕋𝕀̇𝕆ℕ</H1>
 
  
-  <img width="580" height="820" src="https://s1.imghub.io/DHDbS.jpg" alt="WhatsApp Image 2020 09 24 at 00.50.43" border="0">
+  <img width="580" height="820" src="https://s1.imghub.io/DHDbS.jpg" alt="" border="0">
  
  </br>
  
