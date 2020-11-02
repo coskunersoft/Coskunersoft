@@ -19,12 +19,12 @@
  <i class="icon-linkedin"> <a href="https://www.facebook.com/basecoskunersoft"> <img width="32" height="32" src="https://instyle.igte.ch/Content/images/Haberler/Orjinal/facebook-calisma-bicimi-ile-ilgili-tum-yanitlar-92128-25042018134341.png"></a></i>
  </a>
  
- </br>
+ </br></br>
  
  ![](https://komarev.com/ghpvc/?username=coskunersoft)
 
  
- </br> </br>
+ </br>
  
  <H1>𝕀ℕ𝔽𝕆ℝ𝕄𝔸𝕋𝕀̇𝕆ℕ</H1>
 
