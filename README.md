@@ -3,7 +3,7 @@
 <table>
    <tr>
       <td>
-          <img width="314" height="183" src="https://s1.imghub.io/DGfVH.png" alt="cıktı" border="0"></img>
+          <img width="628" height="364" src="https://s1.imghub.io/DGfVH.png" alt="cıktı" border="0"></img>
       </td>
       
    </tr>
