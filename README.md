@@ -9,3 +9,8 @@
   <i class="icon-linkedin"> <a href="https://www.linkedin.com/in/coskunersoft/"> <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"></a></i>
     <i class="icon-linkedin"> <a href="https://www.youtube.com/channel/UCx2JqejbckkgOOwU4zraQiA/videos"> <img width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/youtube-85-226402.png"></a></i>
  </a>
+ 
+ <!-- Sayaclar.com Code Start  -->
+<div align="center"><script language="Javascript" src="http://sa.sayaclar.com/c/s4.php?a=o2d6rdi&s=1a2"></script></div>
+<!-- Sayaclar.com Code End -->
+
