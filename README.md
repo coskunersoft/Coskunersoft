@@ -9,7 +9,7 @@
  
  ![](https://komarev.com/ghpvc/?username=coskunersoft)
 
- <H1>💠 Social</H1>
+ <H1>💠 𝔽𝕠𝕝𝕝𝕠𝕨 𝕞𝕖</H1>
 
 
 <a href="#">
@@ -26,7 +26,7 @@
 
  </br>
  
- <H1>💠 We Love Games</H1>
+ <H1>💠 𝕎𝕖 𝕝𝕠𝕧𝕖 𝕘𝕒𝕞𝕖𝕤</H1>
 
  
   <img width="550" height="407" src="https://frpnet.net/wp-content/uploads/2014/02/the-wildfire.gif" alt="" border="0">
