@@ -3,7 +3,10 @@
 <table>
    <tr>
       <td>
-          <img width="400" height="240" src="https://s1.imghub.io/DGfVH.png" alt="cıktı" border="0"></img>
+         𝘏𝘪 𝘵𝘩𝘦𝘳𝘦 , 𝘪 𝘢𝘮 𝘮𝘶𝘴𝘵𝘢𝘧𝘢 , 𝘪 𝘢𝘮 𝘭𝘪𝘷𝘪𝘯𝘨 𝘪𝘯 𝘪𝘴𝘵𝘢𝘯𝘣𝘶𝘭 𝘵𝘶𝘳𝘬𝘦𝘺
+      </td>
+      <td>
+          <img width="400" height="240" src="https://s1.imghub.io/DGfVH.png" alt="cıktı"></img>
       </td>
       
    </tr>
