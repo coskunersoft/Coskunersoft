@@ -19,17 +19,14 @@
    <i class="icon-linkedin"> <a href="https://www.instagram.com/coskunerov"> <img width="32" height="32" src="https://canadacollege.edu/international/images/icons/instagram-icon.png"></a></i>
  </a>
  
-
- </a>
- 
- 
-
  </br>
  
  <H1> 💎 𝐖𝐞 𝐥𝐨𝐯𝐞 𝐠𝐚𝐦𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 </H1>
 
- 
-  <img width="75" height="75" src="https://phoneky.co.uk/thumbs/screensavers/down/games/supermario_hlq6z1q4.gif" alt="" border="0">
+ <a href="#">
+  <i><img width="75" height="75" src="https://phoneky.co.uk/thumbs/screensavers/down/games/supermario_hlq6z1q4.gif" alt="" border="0"></i>
+   <i><a href="https://github.com/iremsevim"> <img width="50" height="75" src="https://www.pinclipart.com/picdir/big/201-2017976_princess-peach-clipart-transparent-tumblr-princess-peach-pixel.png" alt="" border="0"></a></i>
+</a>
  
  </br>
  
