@@ -28,7 +28,7 @@
  <H1>𝕀ℕ𝔽𝕆ℝ𝕄𝔸𝕋𝕀̇𝕆ℕ</H1>
 
  
-  <img width="580" height="820" src="https://frpnet.net/wp-content/uploads/2014/02/jon-snow.gif" alt="" border="0">
+  <img width="550" height="407" src="https://frpnet.net/wp-content/uploads/2014/02/jon-snow.gif" alt="" border="0">
  
  </br>
  
