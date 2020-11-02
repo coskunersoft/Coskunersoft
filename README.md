@@ -26,7 +26,10 @@
  
  </br> </br>
  
-  <img width="290" height="410" src="https://s1.imghub.io/DHDbS.jpg" alt="WhatsApp Image 2020 09 24 at 00.50.43" border="0">
+ <H1>Information</H1>
+
+ 
+  <img width="580" height="820" src="https://s1.imghub.io/DHDbS.jpg" alt="WhatsApp Image 2020 09 24 at 00.50.43" border="0">
  
  </br>
  
