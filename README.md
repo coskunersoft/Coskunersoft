@@ -1,8 +1,6 @@
 <H2> Senior Unity & .Net Developer</H2>
 <p>𝘏𝘪 𝘵𝘩𝘦𝘳𝘦 , 𝘪 𝘢𝘮 𝘵𝘩𝘦 𝘤𝘰𝘴𝘬𝘶𝘯𝘦𝘳𝘴𝘰𝘧𝘵 , 𝘐 𝘢𝘮 𝘭𝘪𝘷𝘪𝘯𝘨 𝘪𝘯 𝘙𝘦𝘱𝘶𝘣𝘭𝘪𝘤 𝘰𝘧 𝘛𝘶𝘳𝘬𝘦𝘺, 𝘪 𝘢𝘮 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 𝘨𝘢𝘮𝘦𝘴 𝘢𝘯𝘥 𝘢𝘱𝘱𝘴 𝘸𝘪𝘵𝘩 <a style="color:red;" href="https://github.com/iremsevim"> <b> 𝘬𝘪𝘢𝘯𝘢 👩‍ </b></a> </p>
 
-</br>
-
 <H2>Our Skills</H2>
 <a href="#">
   <i class="icon-linkedin"> <img width="64" height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></i>
