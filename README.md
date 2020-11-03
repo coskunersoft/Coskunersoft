@@ -8,7 +8,9 @@
 </br>
 
 <H1>  Our Skills</H1>
-
+<a href="#">
+  <i class="icon-linkedin"> <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></i>
+ </a>
  
  ![](https://komarev.com/ghpvc/?username=coskunersoft)
 
