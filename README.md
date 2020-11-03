@@ -15,7 +15,7 @@
       <i class="icon-linkedin"> <img width="64" height="64" src="https://pbs.twimg.com/profile_images/378800000539531860/2c45151a4a11d3a3c8e71bb34dd069d6.png"></i>
 
  </a>
- 
+ </br></br>
  
  ![](https://komarev.com/ghpvc/?username=coskunersoft)
 
