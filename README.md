@@ -11,7 +11,10 @@
 <a href="#">
   <i class="icon-linkedin"> <img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></i>
   <i class="icon-linkedin"> <img width="32" height="32" src="https://i.pinimg.com/originals/53/e1/31/53e131a6019f72f3eadfe8f1b9e53e22.png"></i>
+    <i class="icon-linkedin"> <img width="32" height="32" src="https://www.arifcetiner.com/wp-content/uploads/sql.png"></i>
+
  </a>
+ 
  
  ![](https://komarev.com/ghpvc/?username=coskunersoft)
 
