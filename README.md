@@ -39,5 +39,6 @@
  
  </br>
  
- <a href="https://www.youtube.com/channel/UCx2JqejbckkgOOwU4zraQiA/videos"> <img width="400" height="240" src="https://s1.imghub.io/DGfVH.png" border="0" ></img></a>
+ <center style="margin-left:300px;"><a href="https://www.youtube.com/channel/UCx2JqejbckkgOOwU4zraQiA/videos"> <img width="400" height="240" src="https://s1.imghub.io/DGfVH.png" border="0" ></img></a></center>
+
 
