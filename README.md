@@ -32,8 +32,4 @@
    <i><a href="https://github.com/iremsevim"> <img width="50" height="75" src="https://www.pinclipart.com/picdir/big/201-2017976_princess-peach-clipart-transparent-tumblr-princess-peach-pixel.png" alt="" border="0"></a></i>
 </a>
  
- </br>
- 
- <center style="margin-left:300px;"><a href="https://www.youtube.com/channel/UCx2JqejbckkgOOwU4zraQiA/videos"> <img width="400" height="240" src="https://s1.imghub.io/DGfVH.png" border="0" ></img></a></center>
-
 
