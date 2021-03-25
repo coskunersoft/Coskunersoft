@@ -1,14 +1,16 @@
 <H2> Senior Unity & .Net Developer</H2>
 <p>𝘏𝘪 𝘵𝘩𝘦𝘳𝘦 , 𝘪 𝘢𝘮 𝘵𝘩𝘦 𝘤𝘰𝘴𝘬𝘶𝘯𝘦𝘳𝘴𝘰𝘧𝘵 , 𝘐 𝘢𝘮 𝘭𝘪𝘷𝘪𝘯𝘨 𝘪𝘯 𝘙𝘦𝘱𝘶𝘣𝘭𝘪𝘤 𝘰𝘧 𝘛𝘶𝘳𝘬𝘦𝘺, 𝘪 𝘢𝘮 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 𝘨𝘢𝘮𝘦𝘴 𝘢𝘯𝘥 𝘢𝘱𝘱𝘴 𝘸𝘪𝘵𝘩 <a style="color:red;" href="https://github.com/iremsevim"> <b> 𝘬𝘪𝘢𝘯𝘢 👩‍ </b></a> </p>
 
-<H2>Our Skills</H2>
-<a href="#">
-  <i class="icon-linkedin"> <img width="64" height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></i>
-  <i class="icon-linkedin"> <img width="64" height="64" src="https://i.pinimg.com/originals/53/e1/31/53e131a6019f72f3eadfe8f1b9e53e22.png"></i>
-    <i class="icon-linkedin"> <img width="64" height="64" src="https://www.arifcetiner.com/wp-content/uploads/sql.png"></i>
-      <i class="icon-linkedin"> <img width="64" height="64" src="https://pbs.twimg.com/profile_images/378800000539531860/2c45151a4a11d3a3c8e71bb34dd069d6.png"></i>
+#### Skills
+![Unity](https://img.shields.io/badge/-Senior%20Unity%20Developer-F05032?style=flat-square&logo=Unity&logoColor=fff)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=fff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff)
+![JetBrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat-square&logo=Jetbrains&logoColor=fff)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
 
- </a>
  </br></br>
  
  ![](https://komarev.com/ghpvc/?username=coskunersoft)
