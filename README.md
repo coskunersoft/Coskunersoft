@@ -26,12 +26,6 @@
  </a>
  
  </br>
- 
- <H2>We Love Game Development</H2>
 
- <a href="#">
-  <i><img width="75" height="75" src="https://phoneky.co.uk/thumbs/screensavers/down/games/supermario_hlq6z1q4.gif" alt="" border="0"></i>
-   <i><a href="https://github.com/iremsevim"> <img width="50" height="75" src="https://www.pinclipart.com/picdir/big/201-2017976_princess-peach-clipart-transparent-tumblr-princess-peach-pixel.png" alt="" border="0"></a></i>
-</a>
  
 
